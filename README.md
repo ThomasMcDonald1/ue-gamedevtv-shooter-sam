@@ -1,4 +1,6 @@
-The fourth and final project of the GameDevTV project series on Udemy for Unreal Engine with C++. This project involves animating a character, utilizing equipment such as a gun, creating the blueprints for the player, gun, enemy characters, and interactions.
+Note: Made With UE v5.6.1.
+
+This is the fourth and final project of the GameDevTV project series on Udemy for Unreal Engine with C++. This project involves animating a character, utilizing equipment such as a gun, creating the blueprints for the player, gun, enemy characters, and interactions.
 Behavior trees are utilized for the simple AI enemies to follow and shoot the player when in range using blackboard keys. Blend trees were also introduced for animating the player to look around and blend the player's movements between using W/A/S/D 
 and jumping, falling, etc.  A nav mesh is also introduced for the AI to navigate around the map given its range. Shooting (just like in Battle Blaster) was accomplished through using SweepTrace / Line traces that would have a starting position
 and impact point. Audio and music were also added towards the end of the game and an introduction of some of the sound features in UE5. Overall, this project was very exciting and pact full of information that will carry with me to the next projects!
